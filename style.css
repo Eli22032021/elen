@@ -1,0 +1,167 @@
+#logo {position: absolute;
+       width:    190px;
+       height:   43px;
+       left:     475px;
+       top:      33px;}
+.menu:hover {background-color: #6a61eb;}
+.menu { text-decoration: none;
+        font-family:     Lato;
+        position:        absolute;
+        font-size:       14px;
+        line-height:     17px;
+        letter-spacing:  0.1em;
+        text-transform:  uppercase;
+        color:           #222222;
+        height:          17px;
+        top:             62px;}
+#fone {position:        absolute;
+        width:           1920px;
+        height:          670px;
+        left:            0px;
+        top:             110px;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);}
+h1  {   position:        absolute;
+        width:           589px;
+        height:          117px;
+        left:            405px;
+        top:             280px;
+        font-family:     Merriweather;
+        font-style:      normal;
+        font-weight:     bold;
+        font-size:       48px;
+        line-height:     66px;
+        color:          #FFFFFF;}
+#main { width:           76px;
+        left:            850px;}
+#services {width:        65px;
+        left:            994px;}
+#cases {width:           58px;
+        left:            1127px;}
+#aboutcompany {width:    116px;
+        left:            1253px;}
+#contakts {width:        91px;
+        left:            1430px;}
+h1.menu {font-style:     normal;
+        font-weight:     bold;}
+.main { font-family:     Lato;
+        font-style:      normal;
+        font-weight:     900;
+        font-size:       24px;
+        line-height:     33px;
+        color:           #BDBDBD;
+        position:        absolute;
+        height:          23px;
+        left:            405px;}
+#n {    width:           445px;
+        top:             920px;}
+#o {    width:           155px;
+        top:             2162px;}
+#nk {   width:           350px;
+        top:             2966px;}
+#ot {   width:           350px;
+        top:             3636px; }
+#Rectangle {position:    absolute;
+        width:           1920px;
+        height:          1242px;
+        left:            0px;
+        top:             780px;
+        background:      #EBEBEB;}
+#rectangle2 {position:   absolute;
+        width:           1920px;
+        height:          630px;
+        left:            0px;
+        top:             2866px;
+        background:     #EBEBEB;}
+#Rectangle3 {position:  absolute;
+        width:          1110px;
+        height:         320px;
+        left:           405px;
+        top:            3826px;
+        background:    #EBEBEB;}
+#blue  {position:       absolute;
+        width:          270px;
+        height:         60px;
+        left:           405px;
+        top:            477px;
+        background:    #005FA3;}
+#presentation {position: absolute;
+        width:          234px;
+        height:         22px;
+        left:           423px;
+        top:            480px;
+        font-family:    Lato;
+        font-style:     normal;
+        font-weight:    normal;
+        font-size:      18px;
+        line-height:    25px;
+        text-align:     center;
+        color:         #FFFFFF;}
+#imgfoot{position:      absolute;
+        width:          1920px;
+        height:         623px;
+        left:           0px;
+        top:            4396px;
+        background:     linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
+        url(.jpg), #C4C4C4;}
+.flexcontainer{display:  flex;
+        flex-direction:  column;
+        justify-content: center;
+        align-content:   center;}
+h3 {    font-family:     Merriweather;
+        font-style:      normal;
+        font-weight:     900;
+        font-size:       48px;
+        line-height:     69px;
+        color:          #333333;}
+#name1 {position:       absolute;
+        width:           663px;
+        height:          47px;
+        left:            407px;
+        top:             983px;}
+#name2 {position:        absolute;
+        width:           347px;
+        height:          117px;
+        left:            407px;
+        top:             2225px;}
+#name3 {position:        absolute;
+        width:           483px;
+        height:          47px;
+        left:            407px;
+        top:             3029px;}
+#name4 {position:        absolute;
+        width:           633px;
+        height:          47px;
+        left:            407px;
+        top:             3699px;}
+#reviews {position:      absolute;
+        width:           920px;
+        height:          92px;
+        left:            500px;
+        top:             3871px;
+        font-family:     Lato;
+        font-style:      normal;
+        font-weight:     300;
+        font-size:       18px;
+        line-height:     25px;
+        color:          #000000;}
+.flex {display:          flex;
+        flex-direction:  row;
+        justify-content: center;
+        align-content:   center; 
+        position:        absolute;
+        width:           350px;
+        height:          360px;
+        background:      linear-gradient(0deg, rgba(0, 95, 163, 0.65),
+         rgba(0, 95, 163, 0.65)), url(.jpg);}
+#r2 {   left:            405px;
+        top:             1132px;}
+#r3 {   left:            785px;
+        top:             1132px;}
+#r4 {   left:            1165px;
+        top:             1132px;}
+#r5 {   left:            405px;
+        top:             1522px;}
+#r6 {   left:            785px;
+        top:             1522px;}
+#r7 {   left:            1165px;
+        top:             1522px;}
